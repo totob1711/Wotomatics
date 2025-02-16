@@ -55,6 +55,6 @@ A l'avenir, il sera suremement possible de choisir le serveur SMTP en fonction d
 > **totob1711** - Architecte du monde numérique, créateur de réalités virtuelles
 >> "Un bug n'est pas un échec, mais une invitation à grandir et à apprendre."  
 Chaque erreur, une leçon. Chaque solution, un pas de plus dans l’infini.  
-> GitHub : [https://github.com/H4kT1m3](https://github.com/H4kT1m3)
+> GitHub : [https://github.com/H4kT1m3](https://github.com/totob1711)
 ---
 
